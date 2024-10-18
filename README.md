@@ -1,2 +1,3 @@
 # Basic-Python
-learn basics of Python with easy way 
+learn basics of Python with easy way and make a fun
+ with python 
